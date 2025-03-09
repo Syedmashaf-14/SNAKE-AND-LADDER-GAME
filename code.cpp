@@ -101,7 +101,6 @@ void displayboard(const int board[][board_size], const int playerpositions[])
 void credit()
 {
     system("cls"); // clear the screen.
-    cout << "Created by:  SYEDA RABIA  23F-0812   " << endl;
     cout << "Created by:  SYED MASHAF  23F-0529   " << endl;
     Sleep(2000);
     system("cls");
